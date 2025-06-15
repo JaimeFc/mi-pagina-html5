@@ -1,0 +1,37 @@
+.titulo {
+    background: rgb(221, 226, 212);
+    color: rgb(4, 4, 21);
+    display: flex;
+    width: 700px;
+    height: 50px;
+    border: 1px solid rgb(17, 2, 2);
+    justify-content: center;
+    align-items: center;
+}
+.titulo2 {
+    background: rgb(221, 226, 212);
+    color: rgb(3, 3, 25);
+    display: flex;
+    width: 700px;
+    height: 50px;
+    border: 1px solid rgb(17, 2, 2);
+    justify-content: center;
+    align-items: center;
+}
+.texto {
+    display: flex;
+    width: 700px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+}
+
+.seleccion {
+    
+    background: rgb(221, 226, 212); 
+    color: rgb(2, 2, 18);
+    width: 700px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+}
